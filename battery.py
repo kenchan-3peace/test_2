@@ -1,4 +1,3 @@
-bbb
 import socket
 import time
 
