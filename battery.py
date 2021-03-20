@@ -1,4 +1,4 @@
-ああああ
+いいい
 import socket
 import time
 
